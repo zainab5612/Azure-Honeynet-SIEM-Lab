@@ -3,7 +3,7 @@
 ## Overview
 In this project, I built a simple honeynet in Microsoft Azure to see what happens when a machine is exposed to the internet.
 
-I created a Windows virtual machine, opened it up to incoming traffic, and used Microsoft Sentinel to monitor and analyze real attack activity — mainly RDP brute-force attempts.
+I created a Windows virtual machine, opened it up to incoming traffic, and used Microsoft Sentinel to monitor and analyze real attack activity (mainly RDP brute-force attempts).
 
 ---
 
@@ -115,3 +115,8 @@ The setup includes:
 - Detecting brute-force attacks
 - Working with Azure cloud services
 - Visualizing security data
+
+---
+
+## 🎥 Project Walkthrough Video
+https://youtu.be/C43Mw3vQxsk
